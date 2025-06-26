@@ -49,7 +49,6 @@ Data pipeline + predictive modeling for NFL fantasy performance, visualized via 
 ## 📫 Let's Connect
 
 - 📧 [johnpaulmik@gmail.com](mailto:johnpaulmik@gmail.com)  
-- 📞 607-661-5299  
 - 🌐 [GitHub.com/j-mikolajczyk](https://github.com/j-mikolajczyk)
 - 💼 [LinkedIn.com/johnpmikolajczyk](https://www.linkedin.com/in/johnpmikolajczyk)
 
