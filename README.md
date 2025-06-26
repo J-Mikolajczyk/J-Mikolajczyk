@@ -2,7 +2,7 @@
 
 MBA Candidate | B.S. in Computer Science  
 Aspiring Software Engineer & Tech-Driven Problem Solver  
-🏋️‍♂Fitness Enthusiast | NFL Fan | Passionate Builder
+Fitness Enthusiast | NFL Fan | Passionate Builder
 
 ---
 
