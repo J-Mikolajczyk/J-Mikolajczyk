@@ -24,11 +24,11 @@ I'm actively seeking opportunities in software engineering, analytics, and techn
 
 ## Highlight Projects
 
-### 🏋Momentum – Full-Stack Fitness Tracker  
+### Momentum – Full-Stack Fitness Tracker  
 **Tech:** Spring Boot, React.js, MongoDB, Docker  
 Secure, responsive fitness app with a mobile-first design and containerized backend.
 
-### ♟Online Multiplayer Chess Platform  
+### Online Multiplayer Chess Platform  
 **Tech:** Java, React, SQL  
 Real-time multiplayer chess app built with OOP, game logic unit testing, and Agile methodology.
 
