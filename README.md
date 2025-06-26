@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm currently pursuing an MBA at Alfred University, building on a strong foundation in computer science from Colorado State University. With a unique blend of technical knowledge and business acumen, I'm passionate about leveraging software to solve real-world problems—especially in the fintech, health tech, and sports analytics domains.
+I'm currently pursuing an MBA at Alfred University, building on a strong foundation in computer science from Colorado State University. With a unique blend of technical knowledge and business acumen, I'm passionate about leveraging software to solve real-world problems.
 
 I'm actively seeking opportunities in software engineering, analytics, and technical product roles where I can collaborate with smart teams, ship impactful products, and keep learning.
 
@@ -51,6 +51,7 @@ Data pipeline + predictive modeling for NFL fantasy performance, visualized via 
 - 📧 [johnpaulmik@gmail.com](mailto:johnpaulmik@gmail.com)  
 - 📞 607-661-5299  
 - 🌐 [GitHub.com/j-mikolajczyk](https://github.com/j-mikolajczyk)
+- 💼 [LinkedIn.com/johnpmikolajczyk](https://www.linkedin.com/in/johnpmikolajczyk)
 
 ---
 
