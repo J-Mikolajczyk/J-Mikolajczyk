@@ -43,6 +43,7 @@ Data pipeline + predictive modeling for NFL fantasy performance, visualized via 
 - **Motion Detection System** (C, Raspberry Pi, WiringPi GPIO)  
 - **NBA Clutch Performance Analysis** (Apache Spark, Java)  
 - **Pokémon Sprite Chrome Extension** (JavaScript, PokeAPI)
+- **That One Gym** (Next.js, PostgreSQL, *in progress*)
 
 ---
 
