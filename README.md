@@ -18,7 +18,7 @@ I'm actively seeking opportunities in software engineering, analytics, and techn
 
 **Languages:** Java, Python, JavaScript, TypeScript, SQL  
 **Frameworks & Tools:** React, Spring Boot, Docker, MongoDB, MariaDB, Git, JUnit, Pandas, scikit-learn  
-**Other Skills:** REST APIs, Agile/Scrum, TDD, CI/CD, PowerBI, Microsoft Power Automate
+**Other Skills:** REST APIs, Agile/Scrum, Test-Driven Development, Object-Oriented Programming, CI/CD
 
 ---
 
