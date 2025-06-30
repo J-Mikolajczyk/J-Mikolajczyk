@@ -28,9 +28,9 @@ I'm actively seeking opportunities in software engineering, analytics, and techn
 **Tech:** Spring Boot, React.js, MongoDB, Docker  
 Secure, responsive fitness app with a mobile-first design and containerized backend.
 
-### Online Multiplayer Chess Platform  
-**Tech:** Java, React, SQL  
-Real-time multiplayer chess app built with OOP, game logic unit testing, and Agile methodology.
+### That One Gym - Gym Search Website
+**Tech:** Next.js, PostgreSQL (*in progress*) 
+Website where gym-goers can search for gyms in their area based on crowd-sourced information like hours and equipment
 
 ### Fantasy Football Scoring Projections  
 **Tech:** Python, Pandas, scikit-learn  
@@ -43,7 +43,6 @@ Data pipeline + predictive modeling for NFL fantasy performance, visualized via 
 - **Motion Detection System** (C, Raspberry Pi, WiringPi GPIO)  
 - **NBA Clutch Performance Analysis** (Apache Spark, Java)  
 - **Pokémon Sprite Chrome Extension** (JavaScript, PokeAPI)
-- **That One Gym** (Next.js, PostgreSQL, *in progress*)
 
 ---
 
