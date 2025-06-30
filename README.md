@@ -1,16 +1,15 @@
 # Hi, I'm John Mikolajczyk
 
 MBA Candidate | B.S. in Computer Science  
-Aspiring Software Engineer & Tech-Driven Problem Solver  
-Fitness Enthusiast | NFL Fan | Passionate Builder
+Aspiring Software Engineer
 
 ---
 
 ## About Me
 
-I'm currently pursuing an MBA at Alfred University, building on a strong foundation in computer science from Colorado State University. With a unique blend of technical knowledge and business acumen, I'm passionate about leveraging software to solve real-world problems.
+I'm currently pursuing an MBA at Alfred University, building on my strong foundation in computer science from Colorado State University. With a unique blend of technical knowledge and business acumen, I'm passionate about leveraging software to solve real-world problems.
 
-I'm actively seeking opportunities in software engineering, analytics, and technical product roles where I can collaborate with smart teams, ship impactful products, and keep learning.
+I'm actively seeking opportunities in software engineering, analytics, and technical product roles. I currently work as the Member Services Coordinator at the Hornell YMCA, where I manage budgets, compose the weekly schedule, and come up with new ways to bring in members.
 
 ---
 
