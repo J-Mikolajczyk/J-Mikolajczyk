@@ -56,6 +56,6 @@ Data pipeline + predictive modeling for NFL fantasy performance, visualized via 
 
 ## Fun Fact
 
-Outside of coding and business strategy, I love lifting weights, watching NFL games, and spending time with my family. I believe that a good day starts with a great workout and ends with solving a cool problem.
+Outside of coding, I love lifting weights, watching NFL games, and spending time with my family.
 
 Thanks for visiting my profile!
