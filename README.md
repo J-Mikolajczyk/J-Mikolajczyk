@@ -1,25 +1,23 @@
-<h1 style="text-align: center;">Hi, I'm John Mikolajczyk</h1> 
+<h1 align="center">Hi, I'm John Mikolajczyk</h1> 
+<h3 align="center"><strong>Aspiring Software Engineer | MBA Candidate @ Alfred Univeristy | B.S. in Computer Science</strong></h3>
 
-MBA Candidate | B.S. in Computer Science  
-Aspiring Software Engineer
-
----
-
-## About Me
-
-I'm currently pursuing an MBA at Alfred University, building on my strong foundation in computer science from Colorado State University. With a unique blend of technical knowledge and business acumen, I'm passionate about leveraging software to solve real-world problems.
-
-I'm actively seeking opportunities in software engineering, analytics, and technical product roles. I currently work as the Member Services Coordinator at the Hornell YMCA, where I manage budgets, compose the weekly schedule, and come up with new ways to bring in members.
-
----
+----
 
 ## Tech Stack
 
-**Languages:** Java, Python, JavaScript, TypeScript, SQL  
-**Frameworks & Tools:** React, Spring Boot, Docker, MongoDB, MariaDB, Git, JUnit, Pandas, scikit-learn  
-**Other Skills:** REST APIs, Agile/Scrum, Test-Driven Development, Object-Oriented Programming, CI/CD
+**Programming Languages:** Java, Python, JavaScript, TypeScript, SQL
 
----
+**Web & Application Frameworks:** React.js, Next.js, Node.js, Spring Boot
+
+**Databases:** MongoDB, PostgreSQL, MariaDB
+
+**DevOps & Tools:** Docker, Git, CI/CD, GitHub Actions
+
+**Testing & Quality Assurance:** JUnit, `SpringBootTest`, Test-Driven Development 
+
+**Software Development Practices:** Object-Oriented Programming, RESTful API Design, Agile & Scrum Methodologies
+
+----
 
 ## Highlight Projects
 
@@ -35,7 +33,8 @@ Website where gym-goers can search for gyms in their area based on crowd-sourced
 **Tech:** Python, Pandas, scikit-learn  
 Data pipeline + predictive modeling for NFL fantasy performance, visualized via Jupyter.
 
----
+----
+
 
 ## Other Cool Builds
 
@@ -43,18 +42,10 @@ Data pipeline + predictive modeling for NFL fantasy performance, visualized via 
 - **NBA Clutch Performance Analysis** (Apache Spark, Java)  
 - **Pokémon Sprite Chrome Extension** (JavaScript, PokeAPI)
 
----
+----
 
 ## Let's Connect
 
 - [johnpaulmik@gmail.com](mailto:johnpaulmik@gmail.com)  
 - [GitHub.com/j-mikolajczyk](https://github.com/j-mikolajczyk)
 - [LinkedIn.com/johnpmikolajczyk](https://www.linkedin.com/in/johnpmikolajczyk)
-
----
-
-## Fun Fact
-
-Outside of coding, I love lifting weights, watching NFL games, and spending time with my family.
-
-Thanks for visiting my profile!
