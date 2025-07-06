@@ -1,4 +1,4 @@
-# Hi, I'm John Mikolajczyk
+<h1 style="text-align: center;">Hi, I'm John Mikolajczyk</h1> 
 
 MBA Candidate | B.S. in Computer Science  
 Aspiring Software Engineer
