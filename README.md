@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm John Mikolajczyk</h1> 
-<h3 align="center"><strong>Aspiring Software Engineer | MBA Candidate @ Alfred Univeristy | B.S. in Computer Science</strong></h3>
+<h3 align="center"><strong>MBA Candidate @ Alfred Univeristy | B.S. in Computer Science</strong></h3>
 
 ----
 
