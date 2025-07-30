@@ -26,7 +26,7 @@
 Secure, responsive fitness app with a mobile-first design and containerized backend.
 
 ### That One Gym - Gym Search Website
-**Tech:** Next.js, PostgreSQL (*in progress*)  
+**Tech:** Next.js, PostgreSQL
 Website where gym-goers can search for gyms in their area based on crowd-sourced information like hours and equipment
 
 ### Fantasy Football Scoring Projections  
