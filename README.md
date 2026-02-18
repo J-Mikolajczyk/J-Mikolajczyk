@@ -5,9 +5,9 @@
 
 ## Tech Stack
 
-**Programming Languages:** Java, Python, JavaScript, TypeScript, SQL
+**Programming Languages:** Java, Python, JavaScript, TypeScript, SQL, C#
 
-**Web & Application Frameworks:** React.js, Next.js, Node.js, Spring Boot
+**Web & Application Frameworks:** React.js, Next.js, Node.js, Spring Boot, WebAssembly, Blazor
 
 **Databases:** MongoDB, PostgreSQL, MariaDB
 
